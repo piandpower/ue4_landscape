@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.10",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ue4_landscape",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
